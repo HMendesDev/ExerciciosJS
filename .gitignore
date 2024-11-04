@@ -1,0 +1,10 @@
+Matriz.docx
+node_modules/ansi-regex/
+node_modules/prompt-sync/
+node_modules/strip-ansi/
+package-lock.json
+package.json
+node_modules/.package-lock.json
+npm-debug.log
+.env
+
